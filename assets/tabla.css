@@ -1,0 +1,55 @@
+table {
+    width: 100%;
+    margin-top: 20px;
+}
+
+th,
+td {
+    text-align: left;
+    padding: 8px;
+}
+
+th.mes {
+    background-color: #B5F3A2;
+}
+
+th.mexico {
+    background-color: #3498db;
+    color: #ffffff;
+}
+
+th.peru {
+    background-color: #D594F5;
+}
+
+th.honduras {
+    background-color: #DBEE3B;
+}
+
+th.costarica {
+    background-color: #3CBAF0;
+}
+
+th.colombia {
+    background-color: #f1c40f;
+}
+
+th.panama {
+    background-color: #c3e58b;
+}
+
+th.chile {
+    background-color: #dcdcdc;
+}
+
+th.elsalvador {
+    background-color: #ff69b4;
+}
+
+td:hover {
+    background-color: #BAFEA5;
+}
+
+tr:last-child td {
+    background-color: #F9FEA5;
+}

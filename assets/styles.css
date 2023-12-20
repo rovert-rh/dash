@@ -1,0 +1,157 @@
+body {
+    font-family: 'Titillium Web', sans-serif;
+    background-color: #f1f3f5;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+}
+.contenido {
+    margin: 20px 15px 20px;
+    
+}
+
+#chart {
+    margin-top: 20px;
+}
+
+<<<<<<< HEAD
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  th,
+  td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    transition: background-color 0.3s ease; /* Transición de color al pasar el mouse */
+  }
+
+  th.mes {
+    background-color: #B5F3A2; /* Color verde para la columna Mes */
+  }
+
+  th.mexico {
+    background-color: #3498db; /* Color azul para México */
+    color: #ffffff; /* Texto en color blanco para resaltar */
+  }
+
+  th.peru {
+    background-color: #D594F5; /* Color violeta para Perú */
+  }
+
+  th.honduras {
+    background-color: #DBEE3B; /* Color amarillo para Honduras */
+  }
+
+  th.costarica {
+    background-color: #3CBAF0; /* Color azul para Costa Rica */
+  }
+
+  th.colombia {
+    background-color: #f1c40f; /* Color amarillo para Colombia */
+  }
+
+  th.panama {
+    background-color: #c3e58b; /* Color verde limón para Panamá */
+  }
+
+  th.chile {
+    background-color: #dcdcdc; /* Color gris para Chile */
+  }
+
+  th.elsalvador {
+    background-color: #ff69b4; /* Color rosa para El Salvador */
+  }
+
+  /* Efecto hover */
+  td:hover {
+    background-color: #BAFEA5; /* Iluminación tenue al pasar el mouse */
+  }
+  
+  tr:last-child td {
+    font-weight: bold;
+    background-color: #F9FEA5; /* Color para la última fila */
+  }
+  th.totalporMes{
+    background-color: #fee9a5; /* Color para la última fila */
+  }
+=======
+
+#loader {
+    display: none;
+    border: 8px solid #f3f3f3;
+    border-top: 8px solid #3498db;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 1s linear infinite;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -25px;
+    margin-left: -25px;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.chart-container {
+    display: none;
+}
+
+/* Estilo para el botón activo */
+.btn.active {
+    background-color: #007bff;
+    color: #fff;
+}
+
+/* Estilo para el botón inactivo */
+.btn:not(.active) {
+    background-color: #ccc;
+    color: #333;
+    cursor: not-allowed;
+}
+
+#loader {
+    display: none;
+    border: 8px solid #f3f3f3;
+    border-top: 8px solid #3498db;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 1s linear infinite;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -25px;
+    margin-left: -25px;
+}
+
+.btn-group .btn.active {
+    background-color: #007bff;
+    color: #fff;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+>>>>>>> 88020c165233f975106d575283df0ac4e09cdadc

@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gráfica con Botones</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/apexcharts@3.27.0/dist/apexcharts.min.css">
+
+  <style>
+    .chart-container {
+      display: none;
+    }
+
+    /* Estilo para el botón activo */
+.btn.active {
+  background-color: #007bff;
+  color: #fff;
+}
+
+/* Estilo para el botón inactivo */
+.btn:not(.active) {
+  background-color: #ccc;
+  color: #333;
+  cursor: not-allowed;
+}
+
+    #loader {
+      display: none;
+      border: 8px solid #f3f3f3;
+      border-top: 8px solid #3498db;
+      border-radius: 50%;
+      width: 50px;
+      height: 50px;
+      animation: spin 1s linear infinite;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      margin-top: -25px;
+      margin-left: -25px;
+    }
+    .btn-group .btn.active {
+     background-color: #007bff;
+     color: #fff;
+        }
+
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+  </style>
+</head>
+<body>
+
+    <div class="container text-center">
+        <h1 class="mt-5">Dashboard</h1>
+      </div>
+  <div class="container mt-4 text-center">
+    <div class="btn-group" role="group" aria-label="Data Buttons">
+      <button id="botonDatos1" type="button" class="btn btn-primary active">IWS Latam</button>
+      <button id="botonDatos2" type="button" class="btn btn-secondary">IWS México</button>
+    </div>
+
+
+    <div class="chart-container" id="chart"></div>
+
+    <div id="loader"></div>
+  </div>
+
+  <!-- Bootstrap JS y dependencias Popper.js y jQuery -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+  <!-- ApexCharts JS -->
+  <script src="https://cdn.jsdelivr.net/npm/apexcharts@3.27.0/dist/apexcharts.min.js"></script>
+
+  <!-- Tu script personalizado -->
+  <script>
+    var jsonUrls = ['datos.json', 'mexico.json'];
+    var activeChart = 0;
+
+    // Inicializar la gráfica con el primer conjunto de datos
+    cargarDatos(jsonUrls[activeChart]);
+
+    // Función para cargar y renderizar la gráfica
+    function cargarDatos(jsonUrl) {
+      // Mostrar el cargador
+      mostrarCargador();
+
+      // Ocultar la gráfica actual
+      ocultarGrafica();
+
+      // Realizar la solicitud para obtener el JSON
+      fetch(jsonUrl)
+        .then(response => response.json())
+        .then(jsonData => {
+          // Configuración del gráfico
+          var options = {
+            series: obtenerSeries(jsonData.Data),
+            chart: {
+              type: 'bar',
+              height: 350
+            },
+            plotOptions: {
+              bar: {
+                horizontal: false,
+                columnWidth: '55%',
+                endingShape: 'rounded'
+              },
+            },
+            dataLabels: {
+              enabled: false
+            },
+            stroke: {
+              show: true,
+              width: 2,
+              colors: ['transparent']
+            },
+            xaxis: {
+              categories: obtenerCategorias(jsonData.Data)
+            },
+            yaxis: {
+              title: {
+                text: '$ (Dolares)'
+              }
+            },
+            fill: {
+              opacity: 1
+            },
+            tooltip: {
+              y: {
+                formatter: function (val) {
+                  return "$ " + val.toFixed(2);
+                }
+              }
+            }
+          };
+
+          // Crear la instancia de la gráfica y renderizarla en el contenedor
+          var chart = new ApexCharts(document.querySelector("#chart"), options);
+          chart.render();
+
+          // Mostrar la gráfica
+          mostrarGrafica();
+
+          // Ocultar el cargador después de cargar los datos
+          ocultarCargador();
+        })
+        .catch(error => {
+          console.error('Error al cargar el archivo JSON:', error);
+
+          // Ocultar el cargador en caso de error
+          ocultarCargador();
+        });
+    }
+
+    // Función para mostrar el cargador
+    function mostrarCargador() {
+      document.getElementById('loader').style.display = 'block';
+    }
+
+    // Función para ocultar el cargador
+    function ocultarCargador() {
+      document.getElementById('loader').style.display = 'none';
+    }
+
+    // Funciones para obtener las series y categorías del gráfico
+    function obtenerSeries(data) {
+      return Object.keys(data).map(entity => {
+        return {
+          name: entity,
+          data: data[entity].map(item => item.y)
+        };
+      });
+    }
+
+    function obtenerCategorias(data) {
+      var entities = Object.keys(data);
+      return data[entities[0]].map(item => item.label);
+    }
+
+    // Función para ocultar la gráfica
+    function ocultarGrafica() {
+      document.getElementById('chart').style.display = 'none';
+    }
+
+    // Función para mostrar la gráfica
+    function mostrarGrafica() {
+      document.getElementById('chart').style.display = 'block';
+    }
+
+    // Asignar eventos a los botones para cambiar los datos al hacer clic
+    document.getElementById('botonDatos1').addEventListener('click', function() {
+  activeChart = 0;
+  cargarDatos(jsonUrls[activeChart]);
+  document.getElementById('botonDatos1').classList.add('active');
+  document.getElementById('botonDatos2').classList.remove('active');
+  document.getElementById('botonDatos1').style.backgroundColor = '#007bff';
+  document.getElementById('botonDatos1').style.color = '#fff';
+  document.getElementById('botonDatos2').style.backgroundColor = '';
+  document.getElementById('botonDatos2').style.color = '';
+});
+
+document.getElementById('botonDatos2').addEventListener('click', function() {
+  activeChart = 1;
+  cargarDatos(jsonUrls[activeChart]);
+  document.getElementById('botonDatos1').classList.remove('active');
+  document.getElementById('botonDatos2').classList.add('active');
+  document.getElementById('botonDatos1').style.backgroundColor = '';
+  document.getElementById('botonDatos1').style.color = '';
+  document.getElementById('botonDatos2').style.backgroundColor = '#007bff';
+  document.getElementById('botonDatos2').style.color = '#fff';
+});
+  </script>
+</body>
+</html>

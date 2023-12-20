@@ -1,0 +1,868 @@
+{
+<<<<<<< HEAD
+    "IWS Services México": [
+        {
+            "label": "Enero",
+            "y": 0.0,
+            "message": "",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Febrero",
+            "y": 0.0,
+            "message": "",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Marzo",
+            "y": 0.0,
+            "message": "",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Abril",
+            "y": 0.0,
+            "message": "",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Mayo",
+            "y": 0.0,
+            "message": "",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Junio",
+            "y": 837.83,
+            "message": "MXN: $14,442.00<br/>",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Julio",
+            "y": 336.48,
+            "message": "MXN: $5,800.00<br/>",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Agosto",
+            "y": 5039.18,
+            "message": "MXN: $86,861.85<br/>",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Septiembre",
+            "y": 9800.44,
+            "message": "MXN: $168,933.04<br/>",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Octubre",
+            "y": 52000.17,
+            "message": "MXN: $895,911.06<br/>USD: $25.03<br/>",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Noviembre",
+            "y": 26420.20,
+            "message": "MXN: $455,245.78<br/>USD: $9.69<br/>",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Diciembre",
+            "y": 32572.80,
+            "message": "MXN: $559,258.61<br/>USD: $128.12<br/>",
+            "totalDataSerie": "",
+            "serieName": ""
+        }
+    ],
+    "IWS Talento Humano": [
+        {
+            "label": "Enero",
+            "y": 0.0,
+            "message": "",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Febrero",
+            "y": 0.0,
+            "message": "",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Marzo",
+            "y": 0.0,
+            "message": "",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Abril",
+            "y": 0.0,
+            "message": "",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Mayo",
+            "y": 0.0,
+            "message": "",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Junio",
+            "y": 57002.29,
+            "message": "USD: $57,002.29<br/>",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Julio",
+            "y": 25766.77,
+            "message": "USD: $25,766.77<br/>",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Agosto",
+            "y": 26283.03,
+            "message": "USD: $26,283.03<br/>",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Septiembre",
+            "y": 22297.6,
+            "message": "USD: $22,297.60<br/>",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Octubre",
+            "y": 90446.94,
+            "message": "USD: $90,446.94<br/>",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Noviembre",
+            "y": 169966.93,
+            "message": "USD: $169,966.93<br/>",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Diciembre",
+            "y": 0.0,
+            "message": "",
+            "totalDataSerie": "",
+            "serieName": ""
+        }
+    ],
+    "IWS Consulting": [
+        {
+            "label": "Enero",
+            "y": 0.0,
+            "message": "",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Febrero",
+            "y": 0.0,
+            "message": "",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Marzo",
+            "y": 0.0,
+            "message": "",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Abril",
+            "y": 0.0,
+            "message": "",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Mayo",
+            "y": 0.0,
+            "message": "",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Junio",
+            "y": 0.0,
+            "message": "",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Julio",
+            "y": 236206.32,
+            "message": "USD: $236,084.18<br/>MXN: $2,105.40<br/>",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Agosto",
+            "y": 119200.92,
+            "message": "USD: $113,504.10<br/>MXN: $98,197.87<br/>",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Septiembre",
+            "y": 74317.07,
+            "message": "USD: $74,317.07<br/>",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Octubre",
+            "y": 89862.24,
+            "message": "USD: $89,862.24<br/>",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Noviembre",
+            "y": 101143.80,
+            "message": "MXN: $2,442.66<br/>USD: $101,002.09<br/>",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Diciembre",
+            "y": 1665.09,
+            "message": "MXN: $2,443.00<br/>USD: $1,523.36<br/>",
+            "totalDataSerie": "",
+            "serieName": ""
+        }
+    ],
+    "IWS Cloud": [
+        {
+            "label": "Enero",
+            "y": 0.0,
+            "message": "",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Febrero",
+            "y": 0.0,
+            "message": "",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Marzo",
+            "y": 0.0,
+            "message": "",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Abril",
+            "y": 0.0,
+            "message": "",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Mayo",
+            "y": 0.0,
+            "message": "",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Junio",
+            "y": 0.0,
+            "message": "",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Julio",
+            "y": 0.0,
+            "message": "",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Agosto",
+            "y": 8629.6,
+            "message": "USD: $8,629.60<br/>",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Septiembre",
+            "y": 1460.67,
+            "message": "USD: $1,460.67<br/>",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Octubre",
+            "y": 0.0,
+            "message": "",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Noviembre",
+            "y": 0.0,
+            "message": "",
+            "totalDataSerie": "",
+            "serieName": ""
+        },
+        {
+            "label": "Diciembre",
+            "y": 0.0,
+            "message": "",
+            "totalDataSerie": "",
+            "serieName": ""
+        }
+    ]
+=======
+    "Result": "Ok",
+    "Data": {
+        "IWS Services México": [
+            {
+                "label": "Enero",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Febrero",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Marzo",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Abril",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Mayo",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Junio",
+                "y": 837.83,
+                "message": "MXN: $14,442.00<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Julio",
+                "y": 336.48,
+                "message": "MXN: $5,800.00<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Agosto",
+                "y": 5039.18,
+                "message": "MXN: $86,861.85<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Septiembre",
+                "y": 9800.44,
+                "message": "MXN: $168,933.04<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Octubre",
+                "y": 52000.17,
+                "message": "MXN: $895,911.06<br/>USD: $25.03<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Noviembre",
+                "y": 26420.20,
+                "message": "MXN: $455,245.78<br/>USD: $9.69<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Diciembre",
+                "y": 32572.80,
+                "message": "MXN: $559,258.61<br/>USD: $128.12<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            }
+        ],
+        "IWS Talento Humano": [
+            {
+                "label": "Enero",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Febrero",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Marzo",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Abril",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Mayo",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Junio",
+                "y": 57002.29,
+                "message": "USD: $57,002.29<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Julio",
+                "y": 25766.77,
+                "message": "USD: $25,766.77<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Agosto",
+                "y": 26283.03,
+                "message": "USD: $26,283.03<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Septiembre",
+                "y": 22297.6,
+                "message": "USD: $22,297.60<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Octubre",
+                "y": 90446.94,
+                "message": "USD: $90,446.94<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Noviembre",
+                "y": 169966.93,
+                "message": "USD: $169,966.93<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Diciembre",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            }
+        ],
+        "IWS Consulting": [
+            {
+                "label": "Enero",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Febrero",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Marzo",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Abril",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Mayo",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Junio",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Julio",
+                "y": 236206.32,
+                "message": "USD: $236,084.18<br/>MXN: $2,105.40<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Agosto",
+                "y": 119200.92,
+                "message": "USD: $113,504.10<br/>MXN: $98,197.87<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Septiembre",
+                "y": 74317.07,
+                "message": "USD: $74,317.07<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Octubre",
+                "y": 89862.24,
+                "message": "USD: $89,862.24<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Noviembre",
+                "y": 101143.80,
+                "message": "MXN: $2,442.66<br/>USD: $101,002.09<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Diciembre",
+                "y": 1665.09,
+                "message": "MXN: $2,443.00<br/>USD: $1,523.36<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            }
+        ],
+        "IWS Cloud": [
+            {
+                "label": "Enero",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Febrero",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Marzo",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Abril",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Mayo",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Junio",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Julio",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Agosto",
+                "y": 8629.6,
+                "message": "USD: $8,629.60<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Septiembre",
+                "y": 1460.67,
+                "message": "USD: $1,460.67<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Octubre",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Noviembre",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Diciembre",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            }
+        ],
+        "Redinet México": [
+            {
+                "label": "Enero",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Febrero",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Marzo",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Abril",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Mayo",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Junio",
+                "y": 5774.48,
+                "message": "MXN: $99,536.46<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Julio",
+                "y": 172.74,
+                "message": "MXN: $2,977.65<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Agosto",
+                "y": 55.70,
+                "message": "MXN: $960.12<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Septiembre",
+                "y": 6087.58,
+                "message": "USD: $6,087.58<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Octubre",
+                "y": 291.09,
+                "message": "MXN: $5,017.59<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Noviembre",
+                "y": 305.91,
+                "message": "MXN: $5,273.05<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Diciembre",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            }
+        ],
+        "Connective IT": [
+            {
+                "label": "Enero",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Febrero",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Marzo",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Abril",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Mayo",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Junio",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Julio",
+                "y": 11693.00,
+                "message": "USD: $11,693.00<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Agosto",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Septiembre",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Octubre",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Noviembre",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Diciembre",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            }
+        ]
+    }
+>>>>>>> 88020c165233f975106d575283df0ac4e09cdadc
+}

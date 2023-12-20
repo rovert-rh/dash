@@ -1,0 +1,607 @@
+{
+    "Result": "Ok",
+    "Data": {
+        "IWS Services Perú": [
+            {
+                "label": "Enero",
+                "y": 50975.64,
+                "message": "USD: $50,975.64",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Febrero",
+                "y": 101344.04,
+                "message": "USD: $101,344.04<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Marzo",
+                "y": 7952.23,
+                "message": "USD: $7,952.23<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Abril",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Mayo",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Junio",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Julio",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Agosto",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Septiembre",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Octubre",
+                "y": 704.28,
+                "message": "USD: $704.28<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Noviembre",
+                "y": 725.7,
+                "message": "USD: $725.70<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Diciembre",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            }
+        ],
+        "IWS Services Costa Rica": [
+            {
+                "label": "Enero",
+                "y": 51605.43,
+                "message": "USD: $51,605.43<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Febrero",
+                "y": 79439.35,
+                "message": "USD: $79,439.35<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Marzo",
+                "y": 81852.28,
+                "message": "USD: $81,852.28<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Abril",
+                "y": 165966.62,
+                "message": "USD: $165,966.62<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Mayo",
+                "y": 20299.8,
+                "message": "USD: $20,299.80<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Junio",
+                "y": 79596.57,
+                "message": "USD: $79,596.57<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Julio",
+                "y": 132773.88,
+                "message": "USD: $132,773.88<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Agosto",
+                "y": 143078.38,
+                "message": "USD: $143,078.38<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Septiembre",
+                "y": 227636.92,
+                "message": "USD: $227,636.92<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Octubre",
+                "y": 214547.97,
+                "message": "USD: $214,547.97<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Noviembre",
+                "y": 103734.86,
+                "message": "USD: $103,734.86<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Diciembre",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            }
+        ],
+        "Redinet Perú": [
+            {
+                "label": "Enero",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Febrero",
+                "y": 692387.2,
+                "message": "USD: $692,387.20<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Marzo",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Abril",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Mayo",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Junio",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Julio",
+                "y": 133.08,
+                "message": "Nuevo Sol: $504.39<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Agosto",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Septiembre",
+                "y": 223.49,
+                "message": "Nuevo Sol: $847.10<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Octubre",
+                "y": 63.00,
+                "message": "Nuevo Sol: $238.80<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Noviembre",
+                "y": 836.20,
+                "message": "Nuevo Sol: $1,442.31<br/>USD: $455.67<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Diciembre",
+                "y": 1568.58,
+                "message": "Nuevo Sol: $3,297.23<br/>USD: $698.66<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            }
+        ],
+        "IWS Services Honduras": [
+            {
+                "label": "Enero",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Febrero",
+                "y": 1503.7,
+                "message": "USD: $1,503.70<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Marzo",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Abril",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Mayo",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Junio",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Julio",
+                "y": 380.01,
+                "message": "USD: $380.01<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Agosto",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Septiembre",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Octubre",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Noviembre",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Diciembre",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            }
+        ],
+        "IWS Services Colombia": [
+            {
+                "label": "Enero",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Febrero",
+                "y": 29404.91,
+                "message": "USD: $29,404.91<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Marzo",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Abril",
+                "y": 23430.59,
+                "message": "USD: $23,430.59<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Mayo",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Junio",
+                "y": 3062.28,
+                "message": "Peso colombiano: $12,235,630.00<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Julio",
+                "y": 75686.32,
+                "message": "Peso colombiano: $1,072,715.00<br/>MXN: $1,300,000.00<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Agosto",
+                "y": 365.11,
+                "message": "Peso colombiano: $1,458,845.00<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Septiembre",
+                "y": 38273.97,
+                "message": "Peso colombiano: $6,415,177.00<br/>USD: $36,668.41<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Octubre",
+                "y": 27373.60,
+                "message": "USD: $27,331.60<br/>Peso colombiano: $167,832.00<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Noviembre",
+                "y": 31571.13,
+                "message": "Peso colombiano: $4,488,680.00<br/>USD: $30,447.72<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Diciembre",
+                "y": 1558.10,
+                "message": "Peso colombiano: $6,225,558.00<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            }
+        ],
+        "Redinet Costa Rica": [
+            {
+                "label": "Enero",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Febrero",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Marzo",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Abril",
+                "y": 2552.16,
+                "message": "USD: $2,552.16<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Mayo",
+                "y": 3975.98,
+                "message": "USD: $3,975.98<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Junio",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Julio",
+                "y": 579.08,
+                "message": "USD: $579.08<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Agosto",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Septiembre",
+                "y": 1885.21,
+                "message": "USD: $1,885.21<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Octubre",
+                "y": 4467.6,
+                "message": "USD: $4,467.60<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Noviembre",
+                "y": 63090.35,
+                "message": "USD: $63,090.35<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Diciembre",
+                "y": 73762.19,
+                "message": "USD: $73,762.19<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            }
+        ],
+        "IWS Services El Salvador": [
+            {
+                "label": "Enero",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Febrero",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Marzo",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Abril",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Mayo",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Junio",
+                "y": 3975.14,
+                "message": "USD: $3,975.14<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Julio",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Agosto",
+                "y": 901.16,
+                "message": "USD: $901.16<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Septiembre",
+                "y": 171.03,
+                "message": "MXN: $2,948.04<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Octubre",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Noviembre",
+                "y": 0.0,
+                "message": "",
+                "totalDataSerie": "",
+                "serieName": ""
+            },
+            {
+                "label": "Diciembre",
+                "y": 2491.38,
+                "message": "USD: $2,491.38<br/>",
+                "totalDataSerie": "",
+                "serieName": ""
+            }
+        ]
+    }
+}
